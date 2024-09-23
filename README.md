@@ -1,4 +1,4 @@
-# Dat Sekho:  Python,Pandas,EDA
+# Data Sekho:  Python-Pandas-EDA
 This repository contains code implemented during a bootcamp, showcasing skills in Python programming, data manipulation, and exploratory data analysis (EDA).
 
 ### Projects Overview:
